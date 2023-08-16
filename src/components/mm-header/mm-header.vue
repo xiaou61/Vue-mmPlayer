@@ -2,7 +2,7 @@
   <!--头部-->
   <header class="mm-header">
     <h1 class="header">
-      <a href="https://github.com/maomao1996/Vue-mmPlayer" target="_blank">
+      <a href="https://github.com/xiaou61" target="_blank">
         xiaou-Player 在线音乐播放器
       </a>
       <img
