@@ -11,11 +11,11 @@
         <dd>专辑名：{{ currentMusic.album }}</dd>
       </template>
       <template v-else>
-        <dd>mmPlayer在线音乐播放器</dd>
+        <dd>xiaouPlayer在线音乐播放器</dd>
         <dd>
-          <a class="hover" target="_blank" href="https://github.com/maomao1996">
+          <a class="hover" target="_blank" href="https://github.com/xiaou61">
             <mm-icon type="github" :size="14" />
-            &nbsp;茂茂
+            &nbsp;小u
           </a>
         </dd>
       </template>
